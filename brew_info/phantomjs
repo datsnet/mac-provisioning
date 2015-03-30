@@ -1,0 +1,5 @@
+phantomjs: stable 2.0.0 (bottled), HEAD
+http://www.phantomjs.org/
+/usr/local/Cellar/phantomjs/2.0.0 (58 files,  50M) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/phantomjs.rb

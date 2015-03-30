@@ -1,0 +1,5 @@
+autoconf: stable 2.69 (bottled)
+https://www.gnu.org/software/autoconf
+/usr/local/Cellar/autoconf/2.69 (70 files, 3.1M) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/autoconf.rb

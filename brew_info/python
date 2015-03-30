@@ -1,0 +1,40 @@
+python: stable 2.7.9 (bottled), HEAD
+https://www.python.org
+/usr/local/Cellar/python/2.7.9 (6137 files,  98M) *
+  Built from source
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/python.rb
+==> Dependencies
+Build: pkg-config ✔
+Required: openssl ✔
+Recommended: readline ✔, sqlite ✔, gdbm ✔
+==> Options
+--universal
+	Build a universal binary
+--with-brewed-tk
+	Use Homebrew's Tk (has optional Cocoa and threads support)
+--with-poll
+	Enable select.poll, which is not fully implemented on OS X (http://bugs.python.org/issue5154)
+--with-quicktest
+	Run `make quicktest` after the build (for devs; may fail)
+--without-gdbm
+	Build without gdbm support
+--without-readline
+	Build without readline support
+--without-sqlite
+	Build without sqlite support
+--HEAD
+	Install HEAD version
+==> Caveats
+Pip and setuptools have been installed. To update them
+  pip install --upgrade pip setuptools
+
+You can install Python packages with
+  pip install <package>
+
+They will install into the site-package directory
+  /usr/local/lib/python2.7/site-packages
+
+See: https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Homebrew-and-Python.md
+
+.app bundles were installed.
+Run `brew linkapps python` to symlink these to /Applications.

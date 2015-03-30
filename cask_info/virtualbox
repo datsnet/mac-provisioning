@@ -1,0 +1,9 @@
+virtualbox: 4.3.26-98988
+VirtualBox
+http://www.virtualbox.org
+/opt/homebrew-cask/Caskroom/virtualbox/4.3.26-98988 (4 files, 110M)
+https://github.com/caskroom/homebrew-cask/blob/master/Casks/virtualbox.rb
+==> Contents
+  /Applications/VirtualBox.app/Contents/MacOS/VBoxManage (binary)
+  /Applications/VirtualBox.app/Contents/MacOS/VBoxHeadless (binary)
+  VirtualBox.pkg (pkg)

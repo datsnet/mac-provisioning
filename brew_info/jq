@@ -1,0 +1,7 @@
+jq: stable 1.4 (bottled), HEAD
+https://stedolan.github.io/jq/
+/usr/local/Cellar/jq/1.4 (15 files, 720K) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/jq.rb
+==> Dependencies
+Build: bison ✘

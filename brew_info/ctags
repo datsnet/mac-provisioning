@@ -1,0 +1,15 @@
+ctags: stable 5.8 (bottled), HEAD
+http://ctags.sourceforge.net/
+/usr/local/Cellar/ctags/5.8_1 (8 files, 364K) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/ctags.rb
+==> Caveats
+Under some circumstances, emacs and ctags can conflict. By default,
+emacs provides an executable `ctags` that would conflict with the
+executable of the same name that ctags provides. To prevent this,
+Homebrew removes the emacs `ctags` and its manpage before linking.
+
+However, if you install emacs with the `--keep-ctags` option, then
+the `ctags` emacs provides will not be removed. In that case, you
+won't be able to install ctags successfully. It will build but not
+link.

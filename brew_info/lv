@@ -1,0 +1,5 @@
+lv: stable 4.51
+http://www.ff.iij4u.or.jp/~nrt/lv/
+/usr/local/Cellar/lv/4.51 (5 files, 500K) *
+  Built from source
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/lv.rb

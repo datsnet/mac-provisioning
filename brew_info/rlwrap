@@ -1,0 +1,7 @@
+rlwrap: stable 0.42 (bottled)
+http://utopia.knoware.nl/~hlub/rlwrap/
+/usr/local/Cellar/rlwrap/0.42 (29 files, 312K) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/rlwrap.rb
+==> Dependencies
+Required: readline ✔

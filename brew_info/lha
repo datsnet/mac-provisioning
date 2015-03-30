@@ -1,0 +1,5 @@
+lha: stable 1.14i-ac20050924p1
+http://lha.sourceforge.jp/
+/usr/local/Cellar/lha/1.14i-ac20050924p1 (4 files, 148K) *
+  Built from source
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/lha.rb

@@ -1,0 +1,11 @@
+rbenv: stable 0.4.0, HEAD
+https://github.com/sstephenson/rbenv
+/usr/local/Cellar/rbenv/0.4.0 (31 files, 152K) *
+  Built from source
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/rbenv.rb
+==> Caveats
+To use Homebrew's directories rather than ~/.rbenv add to your profile:
+  export RBENV_ROOT=/usr/local/var/rbenv
+
+To enable shims and autocompletion add to your profile:
+  if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi

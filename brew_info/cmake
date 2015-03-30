@@ -1,0 +1,10 @@
+cmake: stable 3.2.1 (bottled), HEAD
+http://www.cmake.org/
+/usr/local/Cellar/cmake/3.2.1 (1847 files,  32M) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/cmake.rb
+==> Options
+--without-docs
+	Don't build man pages
+--HEAD
+	Install HEAD version

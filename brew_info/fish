@@ -1,0 +1,11 @@
+fish: stable 2.1.2 (bottled), HEAD
+http://fishshell.com
+/usr/local/Cellar/fish/2.1.2 (670 files, 5.5M) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/fish.rb
+==> Caveats
+You will need to add:
+  /usr/local/bin/fish
+to /etc/shells. Run:
+  chsh -s /usr/local/bin/fish
+to make fish your default shell.

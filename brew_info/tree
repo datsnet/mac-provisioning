@@ -1,0 +1,5 @@
+tree: stable 1.7.0
+http://mama.indstate.edu/users/ice/tree/
+/usr/local/Cellar/tree/1.7.0 (7 files, 128K) *
+  Built from source
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/tree.rb

@@ -1,0 +1,9 @@
+direnv: stable 2.6.0 (bottled), HEAD
+http://www.direnv.net
+/usr/local/Cellar/direnv/2.6.0 (7 files, 3.6M) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/direnv.rb
+==> Dependencies
+Build: go ✔
+==> Caveats
+Finish setup by following: https://github.com/zimbatm/direnv#setup

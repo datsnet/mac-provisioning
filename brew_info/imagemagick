@@ -1,0 +1,57 @@
+imagemagick: stable 6.9.0-10 (bottled), HEAD
+http://www.imagemagick.org
+/usr/local/Cellar/imagemagick/6.9.0-10 (1442 files,  22M) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/imagemagick.rb
+==> Dependencies
+Build: xz ✔, pkg-config ✔
+Required: libtool ✔, xz ✔
+Recommended: jpeg ✔, libpng ✔, freetype ✔
+Optional: fontconfig ✘, libtiff ✘, little-cms ✘, little-cms2 ✘, libwmf ✘, librsvg ✘, liblqr ✘, openexr ✘, ghostscript ✘, webp ✘, fftw ✘
+==> Options
+--enable-hdri
+	Compile with HDRI support
+--with-fftw
+	Compile with FFTW support
+--with-fontconfig
+	Build with fontconfig support
+--with-ghostscript
+	Build with ghostscript support
+--with-jp2
+	Compile with Jpeg2000 support
+--with-liblqr
+	Build with liblqr support
+--with-librsvg
+	Build with librsvg support
+--with-libtiff
+	Build with libtiff support
+--with-libwmf
+	Build with libwmf support
+--with-little-cms
+	Build with little-cms support
+--with-little-cms2
+	Build with little-cms2 support
+--with-openexr
+	Build with openexr support
+--with-perl
+	enable build/install of PerlMagick
+--with-quantum-depth-16
+	Compile with a quantum depth of 16 bit
+--with-quantum-depth-32
+	Compile with a quantum depth of 32 bit
+--with-quantum-depth-8
+	Compile with a quantum depth of 8 bit
+--with-webp
+	Build with webp support
+--with-x11
+	Build with x11 support
+--without-freetype
+	Build without freetype support
+--without-jpeg
+	Build without jpeg support
+--without-libpng
+	Build without libpng support
+--without-magick-plus-plus
+	disable build/install of Magick++
+--HEAD
+	Install HEAD version

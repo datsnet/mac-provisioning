@@ -1,0 +1,7 @@
+peco: stable 0.3.0 (bottled)
+https://github.com/peco/peco
+/usr/local/Cellar/peco/0.3.0 (5 files, 5.1M) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/peco.rb
+==> Dependencies
+Build: go ✔

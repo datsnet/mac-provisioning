@@ -1,0 +1,7 @@
+flow: stable 0.7.0 (bottled), HEAD
+http://flowtype.org/
+/usr/local/Cellar/flow/0.7.0 (48 files, 6.2M) *
+  Poured from bottle
+From: https://github.com/Homebrew/homebrew/blob/master/Library/Formula/flow.rb
+==> Dependencies
+Build: objective-caml ✘
