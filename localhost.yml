@@ -75,7 +75,6 @@
       - { name: seashore }
       - { name: atom }
       - { name: kobito }
-      - { name: intellij-idea }
       - { name: vagrant }
       - { name: virtualbox }
       - { name: sublime-text }
