@@ -61,6 +61,7 @@
       - { name: emacs-mac }
       - { name: iterm2 }
       - { name: firefox }
+      - { name: intellij-idea-ce }
       - { name: google-chrome }
       - { name: adobe-reader }
       - { name: java }
